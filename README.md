@@ -1,6 +1,6 @@
- #Feed forward neural network with back propagation code
+ # Feed forward neural network with back propagation code
 
- ##Variables used :
+ ## Variables used :
 
  1. X_train     : shape (784, 54000)
  2. X_test      : shape (784, 10000)
